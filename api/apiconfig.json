@@ -1,0 +1,17 @@
+{
+
+	"__This is a comment__": "Configure API options",
+    "__This is a comment1__": "PLEASE change the master API key from the default, the application won't launch otherwise",
+    "masterapikey": "defaultkey1",
+
+    "__This is a comment2__": "API Security settings. Not recommended to allow outdated connections to connect to the API",
+	"usehwidverification": "True",
+    "uselocationverification": "True",
+    "useantivpn": "True",
+    "allowoutdatedconnections": "False",
+    "use2FAverification": "False",
+
+    "__This is a comment3__": "API Notification settings.",
+	"webhookenabled": "False",
+    "webhookurl": "default"
+}
