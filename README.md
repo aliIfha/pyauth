@@ -1,2 +1,8 @@
+
 # pyauth
- An authentication library for Python applications and soloutions 
+
+this is an authentication library designed for python application. this is currently being rewritten
+
+
+## currently WIP
+
