@@ -1,5 +1,11 @@
 
 {
     "masterapikey": "defaultkey1",
-    "placeholder": "placeholder"
+    "placeholder": "placeholder",
+
+    "pghostname": "ec2-63-34-153-52.eu-west-1.compute.amazonawswap.com",
+    "pgdatabase": "d1shlf137ap8iu",
+    "pgusername": "ojolchzuymnwsj",
+    "pgpassword": "6f2c341367dd0ed42e2dafc0a8a17a43aa0da213f5f66e7e363589dbdc615126",
+    "pgport": "5432"
 }

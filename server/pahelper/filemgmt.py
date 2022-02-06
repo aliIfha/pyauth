@@ -18,6 +18,12 @@ def createconfig():
 {
     "masterapikey": "defaultkey1",
     "placeholder": "placeholder"
+
+    "pghost": "hostname",
+    "pgdb": "database",
+    "pguser": "username",
+    "pgpass": "password",
+    "pgport": "portnumber"
 }
 ''')
 
@@ -26,3 +32,7 @@ def readconfig(key):
         config = json.load(f)
         value = config.get(key)
         return value
+
+def createfile(filename):
+    with open(filename, "w") as f:
+        f.close
